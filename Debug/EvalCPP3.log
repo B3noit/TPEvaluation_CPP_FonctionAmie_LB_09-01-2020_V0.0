@@ -1,0 +1,24 @@
+﻿  cMatrice.cpp
+  cVecteur.cpp
+D:\COURS\PROG\C++\EvalCPP3\cMatrice.h(17,35): error C2653: 'cVecteur' : n'est pas un nom de classe ni d'espace de noms
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.cpp(18,37): error C2248: 'cMatrice::nMat' : impossible d'accéder à private membre déclaré(e) dans la classe 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cMatrice.h(10): message : voir la déclaration de 'cMatrice::nMat'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.h(4): message : voir la déclaration de 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.cpp(18,69): error C2248: 'cMatrice::nMat' : impossible d'accéder à private membre déclaré(e) dans la classe 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cMatrice.h(10): message : voir la déclaration de 'cMatrice::nMat'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.h(4): message : voir la déclaration de 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.cpp(19,37): error C2248: 'cMatrice::nMat' : impossible d'accéder à private membre déclaré(e) dans la classe 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cMatrice.h(10): message : voir la déclaration de 'cMatrice::nMat'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.h(4): message : voir la déclaration de 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.cpp(19,69): error C2248: 'cMatrice::nMat' : impossible d'accéder à private membre déclaré(e) dans la classe 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cMatrice.h(10): message : voir la déclaration de 'cMatrice::nMat'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.h(4): message : voir la déclaration de 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.cpp(20,37): error C2248: 'cMatrice::nMat' : impossible d'accéder à private membre déclaré(e) dans la classe 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cMatrice.h(10): message : voir la déclaration de 'cMatrice::nMat'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.h(4): message : voir la déclaration de 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.cpp(20,69): error C2248: 'cMatrice::nMat' : impossible d'accéder à private membre déclaré(e) dans la classe 'cMatrice'
+D:\COURS\PROG\C++\EvalCPP3\cMatrice.h(10): message : voir la déclaration de 'cMatrice::nMat'
+  EvalCPP3.cpp
+D:\COURS\PROG\C++\EvalCPP3\cVecteur.h(4): message : voir la déclaration de 'cMatrice'
+  Génération de code en cours...
+D:\COURS\PROG\C++\EvalCPP3\cMatrice.h(17,35): error C2653: 'cVecteur' : n'est pas un nom de classe ni d'espace de noms
